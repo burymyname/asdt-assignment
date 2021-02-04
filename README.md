@@ -16,9 +16,10 @@
 ├── jest.config.js
 ├── NumericalDiff.spec.ts
 ├── README.md
-└── utils.ts
+├── utils.ts
+└── whyfp90.pdf
 
-0 directories, 5 files
+0 directories, 6 files
 ```
 
 
@@ -36,6 +37,7 @@
 | `jest.config.js`        | 项目使用jest作为测试工具，该文件为jest相关配置文件           |
 | `NumericalDiff.spec.ts` | `whyfp`文章中4.2节描述的[Numerical Differentiation]内容实现代码 |
 | `utils.ts`              | 辅助工具类，老师实现的代码，这里复用                         |
+| `whyfp90.pdf`           | Why Functional Programming Matters paper                   |
 
 ### 运行
 
